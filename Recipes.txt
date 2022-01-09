@@ -6,5 +6,7 @@ Beer
 Pasta
 chicken fried
 
+Beans
+Pizza
 
 Thank you!
